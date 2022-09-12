@@ -1,0 +1,39 @@
+.ortala{
+    text-align: center;
+}
+h1{
+    color: pink;
+    text-align: center;
+}
+
+h2{
+    color: purple;
+    text-align: center;
+}
+h3{
+    color:pink;
+}
+.sari{
+    color:rgb(160, 160, 11);
+}
+.mis-viz{
+    color: blue;
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
+#menu ol li {
+
+    float:left;
+    list-style:none;
+    
+    }
+    ol { 
+        display:table; margin:0 auto;
+    }
+
+    ul { 
+        display:table; margin:0 auto;
+    }
